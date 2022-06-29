@@ -10,6 +10,11 @@ from api import api
 from api.config import config
 from api.models import db
 
+"""注意書き"""
+"""ブランチ操作は、特定の機能ごと、特定の作業工程ごとに分ける"""
+"""めちゃくちゃに分けて作成すると、どの順番に何をすればいいかわからなくなるため"""
+"""チームメンバーとの連携、相談、報告を密にする"""
+
 
 def create_app():
     """アプリケーションインスタンスを作成する関数"""
