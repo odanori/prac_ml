@@ -1,0 +1,13 @@
+numpy
+pillow
+scikit-learn
+jupyterlab
+flask
+Flask-Migrate
+Flask-SQLAlchemy
+flake8
+black
+isort
+mypy
+pytest
+jsonschema
